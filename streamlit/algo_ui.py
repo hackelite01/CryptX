@@ -5,7 +5,7 @@ import ast
 st.set_page_config(page_title="CryptX", layout="wide", page_icon='🔐')
 
 with st.sidebar:
-    st.image("")
+    st.image("https://ibb.co/hW9ybcC")
     st.markdown('# 💬 Encrypt and Decrypt your messages with CryptX🔐')
     st.markdown('''
     ---
